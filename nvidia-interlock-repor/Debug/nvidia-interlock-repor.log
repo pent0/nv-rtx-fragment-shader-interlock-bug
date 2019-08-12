@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\main.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\main.cpp(380): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  nvidia-interlock-repor.vcxproj -> E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\x64\Debug\nvidia-interlock-repor.exe
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\fill.frag
+  1 File(s) copied
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\display.vert
+  1 File(s) copied
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\framebuffer_render.vert
+  1 File(s) copied
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\framebuffer_render.frag
+  1 File(s) copied
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\shading_circle.bin
+  1 File(s) copied
+  E:\Dev\projects\nvidia-interlock-repro\nvidia-interlock-repor\nvidia-interlock-repor\noise.png
+  1 File(s) copied
